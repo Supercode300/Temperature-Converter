@@ -1,4 +1,4 @@
-# Created by Supercode300 on 19/10/2026
+# Created by Supercode300
 
 def fconvc():
 	varF = input("Enter Fahreneit Degrees: ")
